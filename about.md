@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Welcome to the OpenDataMine. An API and clearinghouse for all the open data in the real world.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+You can read the manifesto at [http://opendatamine.github.io/odm/meta/2014/06/15/welcome-to-odm/](http://opendatamine.github.io/odm/meta/2014/06/15/welcome-to-odm/)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Mailing list, etc. coming soon.
