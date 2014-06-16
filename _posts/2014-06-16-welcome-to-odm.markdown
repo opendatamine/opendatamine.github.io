@@ -12,7 +12,7 @@ Welcome to the OpenDataMine. An API and clearinghouse for all the open data
 in the real world.
 
 It is the year 2014 and we're now seeing a deluge of open civic data available
-to like-minded hackers around the world. However, there's no standards for this
+to like-minded hackers around the world. However, there are no standards for this
 data and not all governments everywhere collect, store, and open data in the
 same way. As a result hackers and app developers have to deal with the troubles
 of cleaning up and parsing data and doing it over and over again for every new
@@ -56,7 +56,8 @@ resources (with a high regard for transparency).
 An added side-benefit of allowing this data to be used is that we create new forms of useful data, answering questions about the usage of open data (ie. How many people look up directions to Times Square in NYC on Wednesday nights.)
 
 Open questions:
-- what do we need to start?
-- where does this data get hosted and how does it get served?
-- how do we enable city-based champions to interact with city governments better?
-- how does this tie-in to all the open data activities all happening out there?
+
+-   what do we need to start?
+-   where does this data get hosted and how does it get served?
+-   how do we enable city-based champions to interact with city governments better?
+-   how does this tie-in to all the open data activities all happening out there?
